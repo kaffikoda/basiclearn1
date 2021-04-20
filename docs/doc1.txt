@@ -1,1 +1,2 @@
 This is just a basic file to do test my git and github understanding. 
+Now adding new sentence.
